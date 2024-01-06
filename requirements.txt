@@ -18,7 +18,7 @@ AWS-CLI: Install and configure the AWS CLI on your machine with the necessary cr
 
 'Steps:'
 
-1. Clone Repository: git clone https://github.com/techslateramu/tf-aws-project-4.3.git
+1. Clone Repository: git clone https://github.com/techslateramu/-tf-aws-project-4.3.git
 
 2. 'Amazon S3 Module:'
 
